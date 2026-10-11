@@ -93,4 +93,4 @@ docs/                  Arquitetura, formato dos arquivos, limitações, distribu
 
 ## Licença
 
-MIT. Dependências principais: Tauri (MIT/Apache-2.0), TipTap/ProseMirror (MIT), markdown-it (MIT), pulldown-cmark (MIT), React (MIT), lucide (ISC).
+[MIT](LICENSE). Dependências principais: Tauri (MIT/Apache-2.0), TipTap/ProseMirror (MIT), markdown-it (MIT), pulldown-cmark (MIT), React (MIT), lucide (ISC).
